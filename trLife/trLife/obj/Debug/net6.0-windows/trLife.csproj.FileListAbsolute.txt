@@ -1,0 +1,17 @@
+C:\Users\oktay\Desktop\trLife\trLife\bin\Debug\net6.0-windows\trLife.exe
+C:\Users\oktay\Desktop\trLife\trLife\bin\Debug\net6.0-windows\trLife.deps.json
+C:\Users\oktay\Desktop\trLife\trLife\bin\Debug\net6.0-windows\trLife.runtimeconfig.json
+C:\Users\oktay\Desktop\trLife\trLife\bin\Debug\net6.0-windows\trLife.dll
+C:\Users\oktay\Desktop\trLife\trLife\bin\Debug\net6.0-windows\trLife.pdb
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.csproj.AssemblyReference.cache
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.Form1.resources
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.csproj.GenerateResource.cache
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.AssemblyInfoInputs.cache
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.AssemblyInfo.cs
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.dll
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\refint\trLife.dll
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.pdb
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\trLife.genruntimeconfig.cache
+C:\Users\oktay\Desktop\trLife\trLife\obj\Debug\net6.0-windows\ref\trLife.dll
